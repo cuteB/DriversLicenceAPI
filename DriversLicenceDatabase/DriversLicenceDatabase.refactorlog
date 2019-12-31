@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="be4d00a3-317e-44f4-b385-e55eee3e4c03" ChangeDateTime="12/30/2019 20:34:35">
+    <Property Name="ElementName" Value="[dbo].[DriversLicencesTable].[province]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DriversLicencesTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Province" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="690d0d32-7f56-4922-b172-a05678cc29d0" ChangeDateTime="12/30/2019 20:35:21">
+    <Property Name="ElementName" Value="[dbo].[DriversLicencesTable].[String]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DriversLicencesTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Sex" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="54c6e1dd-3473-4107-aff3-22686d587cbf" ChangeDateTime="12/30/2019 20:36:38">
+    <Property Name="ElementName" Value="[dbo].[DriversLicencesTable].[int]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[DriversLicencesTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Height" />
+  </Operation>
+</Operations>

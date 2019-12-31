@@ -1,0 +1,6 @@
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\bin\Debug\DriversLicenceDatabase.dacpac
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\bin\Debug\DriversLicenceDatabase.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\bin\Debug\DriversLicenceDatabase.pdb
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\obj\Debug\DriversLicenceDatabase.sqlprojAssemblyReference.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\obj\Debug\DriversLicenceDatabase.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\obj\Debug\DriversLicenceDatabase.pdb

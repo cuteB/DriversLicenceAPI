@@ -1,0 +1,7 @@
+# Visual studio
+.vs/
+
+
+# db cache
+*.dbmdl
+*.jfm

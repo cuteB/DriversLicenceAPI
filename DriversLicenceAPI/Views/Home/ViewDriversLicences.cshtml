@@ -1,0 +1,143 @@
+﻿@model IEnumerable<DriversLicenceAPI.Models.DriversLicence>
+
+@{
+    ViewBag.Title = "ViewDriversLicences";
+}
+
+<h2>ViewDriversLicences</h2>
+
+<p>
+    @Html.ActionLink("Register Licence", "RegisterLicence")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MiddleName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LicenceNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LicenceClass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StreetAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Province)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PostalCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sex)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EyeColour)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HairColour)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DobDay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DobMonth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DobYear)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Height)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Weight)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpiryDay)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpiryMonth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExpiryYear)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MiddleName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LicenceNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LicenceClass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StreetAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Province)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PostalCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sex)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EyeColour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HairColour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DobDay)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DobMonth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DobYear)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Height)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Weight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExpiryDay)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExpiryMonth)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExpiryYear)
+        </td>
+
+    </tr>
+}
+
+</table>

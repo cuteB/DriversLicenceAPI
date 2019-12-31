@@ -1,0 +1,82 @@
+2019-12-30 1:15:05 PM	This log contains information about the import schema operation into project 'DriversLicenceDatabase' on computer 'EM' by user 'bgodl'.
+2019-12-30 1:15:05 PM	Import of database schema has started.
+2019-12-30 1:15:11 PM	Gathering database credentials
+2019-12-30 1:15:11 PM	Gathering database options
+2019-12-30 1:15:11 PM	Gathering users
+2019-12-30 1:15:11 PM	Gathering roles
+2019-12-30 1:15:11 PM	Gathering application roles
+2019-12-30 1:15:11 PM	Gathering role memberships
+2019-12-30 1:15:11 PM	Gathering filegroups
+2019-12-30 1:15:11 PM	Gathering full-text catalogs
+2019-12-30 1:15:11 PM	Gathering assemblies
+2019-12-30 1:15:11 PM	Gathering certificates
+2019-12-30 1:15:11 PM	Gathering asymmetric keys
+2019-12-30 1:15:11 PM	Gathering symmetric keys
+2019-12-30 1:15:11 PM	Gathering encrypted symmetric keys
+2019-12-30 1:15:11 PM	Gathering schemas
+2019-12-30 1:15:11 PM	Gathering XML schema collections
+2019-12-30 1:15:11 PM	Gathering user-defined data types
+2019-12-30 1:15:11 PM	Gathering user-defined types
+2019-12-30 1:15:11 PM	Gathering table types
+2019-12-30 1:15:11 PM	Gathering unique keys for table types
+2019-12-30 1:15:11 PM	Gathering primary keys for table types
+2019-12-30 1:15:11 PM	Gathering indexes for table types
+2019-12-30 1:15:11 PM	Gathering check constraints for table types
+2019-12-30 1:15:11 PM	Gathering default constraints for table types
+2019-12-30 1:15:11 PM	Gathering partition functions
+2019-12-30 1:15:11 PM	Gathering partition schemes
+2019-12-30 1:15:14 PM	Gathering functions
+2019-12-30 1:15:14 PM	Gathering encrypted functions
+2019-12-30 1:15:14 PM	Gathering aggregates
+2019-12-30 1:15:14 PM	Gathering procedures
+2019-12-30 1:15:14 PM	Gathering encrypted procedures
+2019-12-30 1:15:14 PM	Gathering tables
+2019-12-30 1:15:14 PM	Gathering primary keys
+2019-12-30 1:15:14 PM	Gathering unique constraints
+2019-12-30 1:15:14 PM	Gathering foreign keys
+2019-12-30 1:15:14 PM	Gathering default constraints
+2019-12-30 1:15:14 PM	Gathering check constraints
+2019-12-30 1:15:14 PM	Gathering views
+2019-12-30 1:15:14 PM	Gathering encrypted views
+2019-12-30 1:15:14 PM	Gathering indexes
+2019-12-30 1:15:14 PM	Gathering statistics
+2019-12-30 1:15:14 PM	Gathering full-text index stoplists
+2019-12-30 1:15:14 PM	Gathering search property lists
+2019-12-30 1:15:14 PM	Gathering search properties
+2019-12-30 1:15:14 PM	Gathering full-text indexes
+2019-12-30 1:15:14 PM	Gathering column store indexes
+2019-12-30 1:15:14 PM	Gathering spatial indexes
+2019-12-30 1:15:14 PM	Gathering XML indexes
+2019-12-30 1:15:14 PM	Gathering Selective XML indexes
+2019-12-30 1:15:14 PM	Gathering encrypted triggers
+2019-12-30 1:15:14 PM	Gathering triggers
+2019-12-30 1:15:14 PM	Gathering encrypted and clr ddl triggers
+2019-12-30 1:15:14 PM	Gathering ddl triggers
+2019-12-30 1:15:14 PM	Gathering synonyms
+2019-12-30 1:15:14 PM	Gathering defaults
+2019-12-30 1:15:14 PM	Gathering data constraint uddt bindings
+2019-12-30 1:15:14 PM	Gathering rules
+2019-12-30 1:15:14 PM	Gathering data constraint uddt bindings
+2019-12-30 1:15:14 PM	Gathering message types
+2019-12-30 1:15:14 PM	Gathering queues
+2019-12-30 1:15:14 PM	Gathering contracts
+2019-12-30 1:15:14 PM	Gathering services
+2019-12-30 1:15:14 PM	Gathering event notifications
+2019-12-30 1:15:14 PM	Gathering remote service bindings
+2019-12-30 1:15:14 PM	Gathering broker priorities
+2019-12-30 1:15:14 PM	Gathering signatures
+2019-12-30 1:15:14 PM	Gathering data compression options
+2019-12-30 1:15:14 PM	Gathering sequence types
+2019-12-30 1:15:14 PM	Gathering security policies
+2019-12-30 1:15:14 PM	Gather column encryption keys
+2019-12-30 1:15:14 PM	Gathering column master keys
+2019-12-30 1:15:14 PM	Gathering external data sources
+2019-12-30 1:15:14 PM	Gathering external file formats
+2019-12-30 1:15:14 PM	Gathering external tables
+2019-12-30 1:15:14 PM	Gathering extended properties
+2019-12-30 1:15:14 PM	Gathering credentials
+2019-12-30 1:15:14 PM	Gathering logins
+2019-12-30 1:15:14 PM	Gathering server audits
+2019-12-30 1:15:14 PM	Finished importing database.
+2019-12-30 1:15:14 PM	A summary of the import was saved to the following location: C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceDatabase\Import Schema Logs\DriversLicenceDataba_20191230081505.log
+2019-12-30 1:15:14 PM	Click Finish to continue...
