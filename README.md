@@ -2,5 +2,4 @@
 C# API 
 
 Todo:
-  Update
-  WPF views
+  Update, WPF views
