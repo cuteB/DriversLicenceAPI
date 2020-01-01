@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenceAPI", "DriversLicenceAPI\DriversLicenceAPI.csproj", "{B8563EC2-70BF-451F-9E54-9B2258809938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversLicenceAccess", "DriversLicenceAccess\DriversLicenceAccess.csproj", "{A17EC14B-AE39-4BD2-895E-1846398262A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriversLicenceAccess", "DriversLicenceAccess\DriversLicenceAccess.csproj", "{A17EC14B-AE39-4BD2-895E-1846398262A7}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DriversLicenceDatabase", "DriversLicenceDatabase\DriversLicenceDatabase.sqlproj", "{E705B51F-F382-44F6-988B-D63746543709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDriversLicence", "WPFDriversLicence\WPFDriversLicence.csproj", "{0023AACD-F26D-4749-9F79-AA709CBBCD0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{E705B51F-F382-44F6-988B-D63746543709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E705B51F-F382-44F6-988B-D63746543709}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E705B51F-F382-44F6-988B-D63746543709}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0023AACD-F26D-4749-9F79-AA709CBBCD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0023AACD-F26D-4749-9F79-AA709CBBCD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0023AACD-F26D-4749-9F79-AA709CBBCD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0023AACD-F26D-4749-9F79-AA709CBBCD0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

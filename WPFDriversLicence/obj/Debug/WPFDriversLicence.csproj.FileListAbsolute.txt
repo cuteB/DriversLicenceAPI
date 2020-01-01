@@ -1,0 +1,14 @@
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\bin\Debug\WPFDriversLicence.exe.config
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\bin\Debug\WPFDriversLicence.exe
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\bin\Debug\WPFDriversLicence.pdb
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.csprojAssemblyReference.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\MainWindow.g.cs
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\App.g.cs
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence_MarkupCompile.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence_MarkupCompile.lref
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\MainWindow.baml
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.g.resources
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.Properties.Resources.resources
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.csproj.GenerateResource.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.exe
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.pdb
