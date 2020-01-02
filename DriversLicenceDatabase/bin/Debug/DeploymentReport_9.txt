@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[DriversLicencesTable]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[DriversLicencesTable].[Class] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[DriversLicencesTable] (Table)
+     Create
+       [dbo].[FullDriversLicence] (View)
+
+** Supporting actions
+
+The column [dbo].[DriversLicencesTable].[Class] is being dropped, data loss could occur.
+

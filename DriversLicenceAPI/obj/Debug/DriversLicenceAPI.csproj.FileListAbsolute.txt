@@ -84,6 +84,6 @@ C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\obj\Debug\Driver
 C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\obj\Debug\DriversLicenceAPI.pdb
 C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\Dapper.dll
 C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\Dapper.xml
-C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\WPFDriversLicence.exe
-C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\WPFDriversLicence.pdb
-C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\WPFDriversLicence.exe.config
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\System.Web.Cors.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\System.Web.Http.Cors.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAPI\bin\System.Web.Http.Cors.xml

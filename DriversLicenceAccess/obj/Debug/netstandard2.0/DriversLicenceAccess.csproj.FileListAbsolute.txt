@@ -1,0 +1,8 @@
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\bin\Debug\netstandard2.0\DriversLicenceAccess.deps.json
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\bin\Debug\netstandard2.0\DriversLicenceAccess.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\obj\Debug\netstandard2.0\DriversLicenceAccess.csprojAssemblyReference.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\obj\Debug\netstandard2.0\DriversLicenceAccess.AssemblyInfoInputs.cache
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\obj\Debug\netstandard2.0\DriversLicenceAccess.AssemblyInfo.cs
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\bin\Debug\netstandard2.0\DriversLicenceAccess.pdb
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\obj\Debug\netstandard2.0\DriversLicenceAccess.dll
+C:\Users\bgodl\source\repos\DriversLicenceAPI\DriversLicenceAccess\obj\Debug\netstandard2.0\DriversLicenceAccess.pdb

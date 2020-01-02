@@ -5,7 +5,7 @@
     [LastName] NVARCHAR(50) NOT NULL , 
     [MiddleName] NVARCHAR(50) NULL, 
     [LicenceNumber] NVARCHAR(50) NULL, 
-    [Class] INT NULL, 
+    [LicenceClass] INT NULL, 
     [StreetAddress] NVARCHAR(50) NULL, 
     [City] NVARCHAR(50) NULL, 
     [Province] NVARCHAR(50) NULL, 

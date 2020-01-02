@@ -38,7 +38,7 @@ namespace DriversLicenceAPI.BusinessLogic
                 ExpiryYear = expiryYear
             };
 
-            string sql = @"INSERT INTO dbo.DriversLicencesTable (Id, FirstName, LastName, MiddleName, LicenceNumber, Class, StreetAddress, City, Province, PostalCode, 
+            string sql = @"INSERT INTO dbo.DriversLicencesTable (Id, FirstName, LastName, MiddleName, LicenceNumber, LicenceClass, StreetAddress, City, Province, PostalCode, 
                             Sex, EyeColour, HairColour, DobDay, DobMonth, DobYear, Height, Weight, ExpiryDay, ExpiryMonth, ExpiryYear)
                             values (@Id, @FirstName, @LastName, @MiddleName, @LicenceNumber, @LicenceClass, @StreetAddress, @City, @Province, @PostalCode, 
                             @Sex, @EyeColour, @HairColour, @DobDay, @DobMonth, @DobYear, @Height, @Weight, @ExpiryDay, @ExpiryMonth, @ExpiryYear);";
@@ -48,7 +48,7 @@ namespace DriversLicenceAPI.BusinessLogic
 
         public static List<DriversLicence> LoadDriversLicences()
         {
-            string sql = @"SELECT Id, FirstName, LastName, MiddleName, LicenceNumber, Class, StreetAddress, City, Province, PostalCode, 
+            string sql = @"SELECT Id, FirstName, LastName, MiddleName, LicenceNumber, LicenceClass, StreetAddress, City, Province, PostalCode, 
                             Sex, EyeColour, HairColour, DobDay, DobMonth, DobYear, Height, Weight, ExpiryDay, ExpiryMonth, ExpiryYear from dbo.DriversLicencesTable;";
 
             return DriversLicenceDataAccess.LoadData<DriversLicence>(sql);
@@ -84,7 +84,7 @@ namespace DriversLicenceAPI.BusinessLogic
             };
 
             string sql = @"UPDATE dbo.DriversLicencesTable 
-                            SET ID=@Id, FirstName=@FirstName, LastName=@LastName, MiddleName=@MiddleName, LicenceNumber=@LicenceNumber, Class=@LicenceClass, 
+                            SET ID=@Id, FirstName=@FirstName, LastName=@LastName, MiddleName=@MiddleName, LicenceNumber=@LicenceNumber, LicenceClass=@LicenceClass, 
                             StreetAddress=@StreetAddress, City=@City, Province=@Province, PostalCode=@PostalCode, Sex=@Sex, EyeColour=@EyeColour, HairColour=@HairColour,
                             DobDay=@DobDay, DobMonth=@DobMonth, DobYear=@DobYear, Height=@Height, Weight=@Weight, ExpiryDay=@ExpiryDay, ExpiryMonth=@ExpiryMonth, 
                             ExpiryYear=@ExpiryYear

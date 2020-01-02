@@ -12,3 +12,5 @@ C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDri
 C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.csproj.GenerateResource.cache
 C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.exe
 C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\WPFDriversLicence.pdb
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\Window1.g.cs
+C:\Users\bgodl\source\repos\DriversLicenceAPI\WPFDriversLicence\obj\Debug\Window1.baml
